@@ -4,7 +4,7 @@
 // Input: nums = [4,3,2,7,8,2,3,1]
 // Output: [5,6]
 
-//Approach 1
+//Approach 2
 
 var findDisappearedNumbers = function(arr) {
   // let len = arr.length;
